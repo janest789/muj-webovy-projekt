@@ -1,9 +1,5 @@
-<<<<<<< HEAD
-title: Hurááá, nová strááánkááá
-=======
-title: O kávě
->>>>>>> master
-baseURL: https://eloquent-wiles-d75ba3.netlify.com/
+title: My New Hugo Site
+baseURL: https://xyz.netlify.com/
 languageCode: cs-cz
 publishDir: public
 
