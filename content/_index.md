@@ -14,9 +14,9 @@ Nejedná se sice o téma, o kterém by na českém internetu nepadlo ani řádku
 
 Mimo jiné se obklopuji lidmi, kteří ať už kavárnu vlastní (a kde sami s výběrovou kávou pracují) nebo lidmi, kteří kávu sami praží. Dokáži si s nimi tedy představit i nějakou možnou spolupráci.
 
+
 https://europeancoffeetrip.com/
 
 http://kavovekurzy.cz/
 
 https://kikafe.cz/
->>>>>>> master
