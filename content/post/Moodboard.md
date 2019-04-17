@@ -2,7 +2,35 @@
 title: Moodboard
 date: 2019-04-17
 tags: 
-moodboard, nápady, koláž, nástěnka, myšlenková mapa, obrázky, fotografie, informace, zajímavosti, rostlina, plantáže, kávovník, pěstování, nápoj, káva, kávová zrna, příprava, historie kávy, coffee art, druhy káv, caffe latte, cappuccino, ristreto, lungo, espresso, latte macchiato, flat white, pražírna, kavárna
+    - moodboard
+    - nápady
+    - koláž
+    - nástěnka
+    - myšlenková mapa
+    - obrázky
+    - fotografie
+    - informace
+    - zajímavosti
+    - rostlina
+    - plantáže
+    - kávovník
+    - pěstování
+    - nápoj
+    - káva
+    - kávová zrna
+    - příprava
+    - historie kávy
+    - coffee art
+    - druhy káv
+    - caffee latte
+    - cappuccino
+    - ristreto
+    - lungo
+    - espresso
+    - latte macchiato
+    - flat white
+    - pražírna
+    - kavárna
 ---
 Celé jsme to brali čistě, obecně a inspirativně. Každý z nás tento nápoj jistě vnímá jinak. Avšak na tom, co se nám líbí či nelíbí jsme byli za jedno. Čistota, nepřeplácanost, přesto však rozmanitost a hravost. To je naším mottem. Určitě nejsme názoru, že by mělo být všechno vanilkové a hnědé a stereotypní. Káva je radost v každém doušku. Každá odrůda z každé pražírny voní jinak a její chuťové profily jsou vždy jiné. Zkrátka káva hraje všemi barvami. Je šťavnatá. Někdy cítíme citrusovou žlutou, jindy bobulovou červenou, a to je naprosto v pořádku. Spoustu fotografií jsme postahovali z Pinterestu či facebookových a instagramových profilů kaváren, které nás inspirují. Pro řadu fotografií jsme sahali i do vlastních archivů. Chceme našim čtenářům přinést celou pohádku kávy od začátku až ke konci. Od malé květiny, přes plantáže a zrníčko po zrníčku až do našich šálků.
 
