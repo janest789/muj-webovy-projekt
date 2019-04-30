@@ -5,22 +5,27 @@
 }
 
 header {
+  margin-bottom: 100px;
   padding: 30px 0 0;
-  border-bottom: solid;
+  background-image: url(../images/coffee.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
 }
 
 footer {
-  border-top: solid;
+
   clear: both;
+  opacity: 0.8;
 }
 
 .page {
   float: right;
   width: 70%;
-  border-left: solid;
   padding-left: 1.5em;
   padding-bottom: 2em;
   min-height: 400px;
+  font-family: bahnschrift;
 }
 
 aside {
@@ -31,7 +36,9 @@ aside {
 
 nav ul {
   list-style-type: none;
-  padding: 0;
+  padding: 5px;
+  border-right: solid 2px;
+  margin: 10px;
 }
 
 nav li {
@@ -40,4 +47,30 @@ nav li {
 
 nav .active {
   font-weight: bold;
+}
+
+h1{
+  padding: 15px;
+  color: #013220;
+  text-align: center;
+  text-shadow: 2px 2px 5px pink;
+  font-family: fantasy;
+  text-transform: uppercase;
+}
+
+h2{
+  color:#560005;
+  text-align: left;
+  margin: 25px;
+}
+
+li{
+  padding: 8px;
+  list-style-type: none;
+  border-left: solid 0.5px;
+  padding-bottom: 5px;
+}
+
+body{
+ background-color: #FFFFE0;
 }
