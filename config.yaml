@@ -2,6 +2,7 @@ title: O kávě
 baseURL: https://eloquent-wiles-d75ba3.netlify.com/
 languageCode: cs-cz
 publishDir: public
+googleAnalytics: "UA-139431118-1"
 
 menu:
   main:
