@@ -1,27 +1,27 @@
  ---
-title: O pìstování kávovníku
+title: O pÄ›stovÃ¡nÃ­ kÃ¡vovnÃ­ku
 date: 2019-05-14
 tags: 
-    - kávovník
+    - kÃ¡vovnÃ­k
     - rostlina
-    - pìstování
-    - pùvod rostliny
+    - pÄ›stovÃ¡nÃ­
+    - pÅ¯vod rostliny
 ---
 
-Kávovník je keøem subtropického a tropického podnebného pásma. Je pìstován v Asii, Jiní a Støední Americe, v Africe, Arabském poloostrovì a Indonésii, pøedevším v hornatıch krajinách. 
-Vyaduje teplé a vlhké podnebí se stálımi teplotami mezi 18-22 °C. Jde pùvodnì o keø z pralesa. 
-Keøíky kávovníku se pøedpìstují v bavlnìnıch obalech a po dosaení vıšky cca 30 a 50 cm jsou pak vysazovány na plantáích, pøedevším na slabì kyselıch, hlinitıch pískách. 
-Kvetou bílımi voòavımi kvìty, je se rychle mìní v zárodky plodù. 
-Plody kávovníku v závislosti na odrùdì a poloze plantáe dozrávají prùbìnì 6 a 9 mìsícù po odkvìtu, pøièem vznikají kulaté 
-èi oválné plodnice, podobající se velikostí tøešni (kávová bobule). Zelené plody zpoèátku loutnou, èervenají a se koneènì zabarvují jemnì dofialova. 
-Skládají se z povrchové koovité slupky, nasládlé šavnaté duniny a pergamenovité slupky, obalující dvì kávová zrna. 
-Kadé semeno je ještì obaleno volnım osemením, zvanım støíbøitá blanka. Kávovník je nenároèná rostlina, kterou mùete pìstovat i v domácích podmínkách. 
-Bìhem léta snese teplotu kolem osmadvaceti stupòù Celsia, v zimì v rozmezí patnácti a dvaceti stupòù. Kávovník musí bıt umístìnı na svìtlé místo, kam 
-ale nedopadají pøímé sluneèní paprsky, které by jej spálily. Po tøech letech se na kávovníku mohou poprvé objevit voòavé kvìty bílé barvy. 
-Za devìt a ètrnáct mìsícù po jejich odkvìtu dozrávají plody. Nejvíce se pìstují tøi odrùdy, z jejich semen se praí káva. 
-U nás je nejznámìjší Coffea arabica – tvoøí asi sedmdesát procent celkové produkce kávy.
-Je to pøedevším proto, e tato odrùda má velmi jemnou chu a vırazné aroma, je velmi kvalitní. Další z odrùd je Coffea robusta. 
-Káva z ní je urèena tìm, kteøí oceòují drsnìjší a vıraznìjší chu. 
-Není tak jemná a lahodná jako Arabika. Pokud jste milovníci velmi hoøké kávy, nejvíce oceníte zpracované plody odrùdy Coffea liberica.
+KÃ¡vovnÃ­k je keÅ™em subtropickÃ©ho a tropickÃ©ho podnebnÃ©ho pÃ¡sma. Je pÄ›stovÃ¡n v Asii, JiÅ¾nÃ­ a StÅ™ednÃ­ Americe, v Africe, ArabskÃ©m poloostrovÄ› a IndonÃ©sii, pÅ™edevÅ¡Ã­m v hornatÃ½ch krajinÃ¡ch. 
+VyÅ¾aduje teplÃ© a vlhkÃ© podnebÃ­ se stÃ¡lÃ½mi teplotami mezi 18-22 Â°C. Jde pÅ¯vodnÄ› o keÅ™ z pralesa. 
+KeÅ™Ã­ky kÃ¡vovnÃ­ku se pÅ™edpÄ›stujÃ­ v bavlnÄ›nÃ½ch obalech a po dosaÅ¾enÃ­ vÃ½Å¡ky cca 30 aÅ¾ 50 cm jsou pak vysazovÃ¡ny na plantÃ¡Å¾Ã­ch, pÅ™edevÅ¡Ã­m na slabÄ› kyselÃ½ch, hlinitÃ½ch pÃ­skÃ¡ch. 
+Kvetou bÃ­lÃ½mi voÅˆavÃ½mi kvÄ›ty, jeÅ¾ se rychle mÄ›nÃ­ v zÃ¡rodky plodÅ¯. 
+Plody kÃ¡vovnÃ­ku v zÃ¡vislosti na odrÅ¯dÄ› a poloze plantÃ¡Å¾e dozrÃ¡vajÃ­ prÅ¯bÄ›Å¾nÄ› 6 aÅ¾ 9 mÄ›sÃ­cÅ¯ po odkvÄ›tu, pÅ™iÄemÅ¾ vznikajÃ­ kulatÃ© 
+Äi ovÃ¡lnÃ© plodnice, podobajÃ­cÃ­ se velikostÃ­ tÅ™eÅ¡ni (kÃ¡vovÃ¡ bobule). ZelenÃ© plody zpoÄÃ¡tku Å¾loutnou, ÄervenajÃ­ aÅ¾ se koneÄnÄ› zabarvujÃ­ jemnÄ› dofialova. 
+SklÃ¡dajÃ­ se z povrchovÃ© koÅ¾ovitÃ© slupky, naslÃ¡dlÃ© Å¡Å¥avnatÃ© duÅ¾niny a pergamenovitÃ© slupky, obalujÃ­cÃ­ dvÄ› kÃ¡vovÃ¡ zrna. 
+KaÅ¾dÃ© semeno je jeÅ¡tÄ› obaleno volnÃ½m osemenÃ­m, zvanÃ½m stÅ™Ã­bÅ™itÃ¡ blanka. KÃ¡vovnÃ­k je nenÃ¡roÄnÃ¡ rostlina, kterou mÅ¯Å¾ete pÄ›stovat i v domÃ¡cÃ­ch podmÃ­nkÃ¡ch. 
+BÄ›hem lÃ©ta snese teplotu kolem osmadvaceti stupÅˆÅ¯ Celsia, v zimÄ› v rozmezÃ­ patnÃ¡cti aÅ¾ dvaceti stupÅˆÅ¯. KÃ¡vovnÃ­k musÃ­ bÃ½t umÃ­stÄ›nÃ½ na svÄ›tlÃ© mÃ­sto, kam 
+ale nedopadajÃ­ pÅ™Ã­mÃ© sluneÄnÃ­ paprsky, kterÃ© by jej spÃ¡lily. Po tÅ™ech letech se na kÃ¡vovnÃ­ku mohou poprvÃ© objevit voÅˆavÃ© kvÄ›ty bÃ­lÃ© barvy. 
+Za devÄ›t aÅ¾ ÄtrnÃ¡ct mÄ›sÃ­cÅ¯ po jejich odkvÄ›tu dozrÃ¡vajÃ­ plody. NejvÃ­ce se pÄ›stujÃ­ tÅ™i odrÅ¯dy, z jejich semen se praÅ¾Ã­ kÃ¡va. 
+U nÃ¡s je nejznÃ¡mÄ›jÅ¡Ã­ Coffea arabica â€“ tvoÅ™Ã­ asi sedmdesÃ¡t procent celkovÃ© produkce kÃ¡vy.
+Je to pÅ™edevÅ¡Ã­m proto, Å¾e tato odrÅ¯da mÃ¡ velmi jemnou chuÅ¥ a vÃ½raznÃ© aroma, je velmi kvalitnÃ­. DalÅ¡Ã­ z odrÅ¯d je Coffea robusta. 
+KÃ¡va z nÃ­ je urÄena tÄ›m, kteÅ™Ã­ oceÅˆujÃ­ drsnÄ›jÅ¡Ã­ a vÃ½raznÄ›jÅ¡Ã­ chuÅ¥. 
+NenÃ­ tak jemnÃ¡ a lahodnÃ¡ jako Arabika. Pokud jste milovnÃ­ci velmi hoÅ™kÃ© kÃ¡vy, nejvÃ­ce ocenÃ­te zpracovanÃ© plody odrÅ¯dy Coffea liberica.
 
-![Kávovník](https://i.pinimg.com/564x/37/62/cf/3762cfb360c1c5e25a7915496c35b5be.jpg)
+![KÃ¡vovnÃ­k](https://i.pinimg.com/564x/37/62/cf/3762cfb360c1c5e25a7915496c35b5be.jpg)
