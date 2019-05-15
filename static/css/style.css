@@ -51,7 +51,7 @@ nav .active {
 
 h1{
   padding: 15px;
-  color: #CC0099;
+  color: #013220;
   text-align: center;
   text-shadow: 2px 2px 5px pink;
   font-family: fantasy;
@@ -59,7 +59,7 @@ h1{
 }
 
 h2{
-  color:#FF80DF;
+  color:#560005;
   text-align: left;
   margin: 25px;
 }
@@ -72,5 +72,5 @@ li{
 }
 
 body{
- background-color: #FFBFDC;
+ background-color: #FFFFE0;
 }
